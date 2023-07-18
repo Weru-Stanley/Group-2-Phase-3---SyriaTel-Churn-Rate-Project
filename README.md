@@ -27,11 +27,30 @@ In this stage, data is transformed, cleaned, and preprocessed to make it suitabl
   
 ### 4. Modeling
 
-We tested our model to see how well it could predict customer churn. We fitted four models, Decision trees, Random forests, Logistic regression, and Gradient boost model. Our best model was the Gradient boost Classifier, which had a recall score of about 80%.
+We tested our model to see how well it could predict customer churn. We fitted four models, Decision trees, Random forests, Logistic regression, and Gradient boost model. Our best model was the Gradient Boost Classifier, which had a recall score of about 80%.
 
+##### Model Evaluation:
+
+A combination of metrics such as accuracy, precision, recall, F1-score, and ROC- AUC can be used to evaluate the performance of the model and ensure that it meets the business requirements and goals of the telecom company.
 ![scores](https://github.com/Weru-Stanley/Group-2-Phase-3---SyriaTel-Churn-Rate-Project/assets/128227310/5b35723f-b1d5-4a7b-9f40-89ec70586d3f)
 
 Additionally, the key features that were shown to influence whether a customer would churn or not can be seen in the bar plot displayed below. We can note that the total expenditure is a key predicting variable.
+![Features](https://github.com/Weru-Stanley/Group-2-Phase-3---SyriaTel-Churn-Rate-Project/assets/128227310/666b8e94-bfb2-4c08-8219-d93221a685d9)
+
+## Conclusions 
+Factors such as the number of customer service calls, whether the customer has an international plan, and the total day's minutes and charges were significant predictors of customer churn. Interestingly, we found that customers with an international plan are more likely to churn.
+
+### What's Next?
+Based on our findings, we recommend SyriaTel to:
+- **Review International Plan:** Review the structure and pricing of the international plan to ensure it meets customer needs.
+
+- **Improve Customer Service:** Improve the customer service experience to reduce the likelihood of churn.
+
+- **Analyze Pricing Structure:** A review of pricing strategies and structures could help to ensure they are competitive and provide value to customers.
+
+
+
+
 
 
 
