@@ -21,6 +21,22 @@ Telcom operators usually consider two main factors in their plan to maintain and
 ##### What Data Did We Use?
 The SyriaTel Dataset was retrieved from [Kaggle](https://www.kaggle.com/becksddf/churn-in-telecoms-dataset). It contains information on about 3,333 customers. The data includes various details like the state the customer is from, how long they've been a customer, whether they have an international plan or voice mail plan, how many customer service calls they've made, and many more.
 
+### 3. Data Preparation:
+In this stage, data is transformed, cleaned, and preprocessed to make it suitable for analysis. This included;
+* Data Type conversion, Dealing with multicollinearity, Splitting the data.
+  
+### 4. Modeling
+
+We tested our model to see how well it could predict customer churn. We fitted four models, Decision trees, Random forests, Logistic regression and Gradient boost model and Our best model was the Gradient boost Classifier, which had a recall score of about 80%.
+
+
+
+
+
+Additionally, the key features that were shown to influence whether a customer would churn or not can be seen in the bar plot displayed below. We can note that the total expenditure is a key predicting variable.
+
+
+
 
 
 
