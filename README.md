@@ -18,8 +18,8 @@ Telcom operators usually consider two main factors in their plan to maintain and
 
 ### 2. Data Understanding
 
-What Data Did We Use?
-The SyriaTel Dataset was retrieved from [Kaggle]([https://openai.com](https://www.kaggle.com/becksddf/churn-in-telecoms-dataset)). It contains information on about 3,333 customers. The data includes various details like the state the customer is from, how long they've been a customer, whether they have an international plan or voice mail plan, how many customer service calls they've made, and many more.
+##### What Data Did We Use?
+The SyriaTel Dataset was retrieved from [Kaggle](https://www.kaggle.com/becksddf/churn-in-telecoms-dataset). It contains information on about 3,333 customers. The data includes various details like the state the customer is from, how long they've been a customer, whether they have an international plan or voice mail plan, how many customer service calls they've made, and many more.
 
 
 
