@@ -23,17 +23,16 @@ The SyriaTel Dataset was retrieved from [Kaggle](https://www.kaggle.com/becksddf
 
 ### 3. Data Preparation:
 In this stage, data is transformed, cleaned, and preprocessed to make it suitable for analysis. This included;
-* Data Type conversion, Dealing with multicollinearity, Splitting the data.
+* Data Type conversion, Dealing with multicollinearity, and splitting the data.
   
 ### 4. Modeling
 
-We tested our model to see how well it could predict customer churn. We fitted four models, Decision trees, Random forests, Logistic regression and Gradient boost model and Our best model was the Gradient boost Classifier, which had a recall score of about 80%.
+We tested our model to see how well it could predict customer churn. We fitted four models, Decision trees, Random forests, Logistic regression, and Gradient boost model. Our best model was the Gradient boost Classifier, which had a recall score of about 80%.
 
-
-
-
+![scores](https://github.com/Weru-Stanley/Group-2-Phase-3---SyriaTel-Churn-Rate-Project/assets/128227310/5b35723f-b1d5-4a7b-9f40-89ec70586d3f)
 
 Additionally, the key features that were shown to influence whether a customer would churn or not can be seen in the bar plot displayed below. We can note that the total expenditure is a key predicting variable.
+
 
 
 
