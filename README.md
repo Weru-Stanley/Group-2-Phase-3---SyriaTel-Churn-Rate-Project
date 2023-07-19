@@ -25,7 +25,7 @@ In this stage, data is transformed, cleaned, and preprocessed to make it suitabl
   
 ### 4. Modeling
 
-We tested our model to see how well it could predict customer churn. We fitted four models, Decision trees, Random forests, Logistic regression, and Gradient boost model. Our best model was the Gradient Boost Classifier, which had a recall score of about 82.2%.
+We tested our model to see how well it could predict customer churn. We fitted four models, Decision trees, Random forests, Logistic regression, and Gradient boost model. Our best model was the Gradient Boost Classifier, which had a recall score of about 81.2%.
 
 ##### Model Evaluation:
 
