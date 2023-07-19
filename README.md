@@ -1,5 +1,5 @@
 # SYRIATEL TELCOM CHURN RATE ANALYSIS
-![Telecom-operators-and-reducing-customer-churn](https://github.com/Weru-Stanley/Group-2-Phase-3---SyriaTel-Churn-Rate-Project/assets/128227310/0adf54d3-04c6-472b-9a54-e79d684e996b)
+![OpenAI Logo](https://www.esriuk.com/content/dam/esrisites/en-us/industries/2022/telecommunications/assets/overview/industry-telecom-overview-two-thirds.jpg)
 
 ## Project Overview
 Customer churn is when a customer ceases his or her relationship with a company. Syriatel Telcom values its customers and wants to understand what leads some of them to end their relationship with us. Binary classification models were used to predict customer churn at Syria Tel. The primary goal is to identify influential factors to minimize financial losses from attrition.
